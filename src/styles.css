@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+span {
+  background-color: var(--color-blue);
+  padding-top: 50px;
+  display: inline-block;
+}
